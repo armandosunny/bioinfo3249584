@@ -21,3 +21,6 @@ str(datos)
 
 base$Tejido <- as.factor(base$Tejido)
 [Figure 6.tif](https://github.com/user-attachments/files/25445413/Figure.6.tif)
+
+
+![perro](https://github.com/user-attachments/assets/a9bdb40e-65f8-4a76-bf36-91dae6705ab4)
